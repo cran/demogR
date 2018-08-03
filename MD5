@@ -1,5 +1,6 @@
-220837041e359771b62830d2cef89278 *DESCRIPTION
-3ce4ea0dc147646cbb470045fa00c9dc *NAMESPACE
+26af0d22f4d5c5e5f62b3226b4c66565 *ChangeLog
+40e53e42745d5e973dd0b21417a90a74 *DESCRIPTION
+c47f6063f5fd99f71ed401eee53a9b4e *NAMESPACE
 c2c3202aa1f4237c8159dbe07d6d45bf *R/calc.ro.R
 085ea27887105bb4275783cdbdc56447 *R/cdmlte.R
 935d19340fd32adbb7f396b25556e14b *R/cdmltn.R
@@ -35,10 +36,10 @@ be08eee03f9b0421ab6cf0de6ce9be83 *man/eigen.analysis.Rd
 eca0529663546ae4e58e430e1a5674ae *man/elassens.Rd
 91fd11bff63dceb074a00d0307575fd3 *man/fullsecder.Rd
 a9a22ff10862d32dfca3e22d5975edc3 *man/gen.time.Rd
-f4a553fa7fb77649ab5cde6eafe28cc2 *man/goodman.Rd
+78dbb53a081d3362747b4546bb1a9acd *man/goodman.Rd
 4377ec419f75ba04ad69fcb60de1dd52 *man/keyfitz.Rd
 cfa98aebc8153ef1091ba08f579339d6 *man/lams.Rd
-3cd57ba7fad8174904dff6e2e6abd23c *man/leslie.matrix.Rd
+d9746f2565ec489784031da223af9439 *man/leslie.matrix.Rd
 478e7468978a4cbee3527179d40c660f *man/leslie.row1.Rd
 f2b51134f272e2da0e7d8c1967da3dd4 *man/life.table.Rd
 8708e0677498905fded2d329c549b2f1 *man/loop.elas.Rd
